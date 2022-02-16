@@ -7,7 +7,7 @@
         "pkgname": "com.google.facebook.startapp.ads",
         "islive": "0",
         "appid": "ca-app-pub-3940256099942544~3347511713",
-        "openad": "ca-app-pub-3940256099942544/3419835294",
+        "openad": "ca-app-pub-3940256099942544~3347511713",
         "admobid": "ca-app-pub-3940256099942544/6300978111",
         "created_date": "2022-01-20 13:35:42",
         "admobfull": "ca-app-pub-3940256099942544/1033173712",
