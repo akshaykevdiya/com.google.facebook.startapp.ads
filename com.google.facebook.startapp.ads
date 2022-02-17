@@ -11,7 +11,7 @@
         "admobid": "ca-app-pub-3940256099942544/6300978111",
         "created_date": "2022-01-20 13:35:42",
         "admobfull": "ca-app-pub-3940256099942544/1033173712",
-        "admobnative": "ca-app-pub-3940256099942544/2247696110",
+        "admobnative": "ca-app-pub-3940256099942544/22476961100",
         "fbid": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbfull": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbnative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
