@@ -5,7 +5,7 @@
         "id": "200",
         "name": "Nam",
         "pkgname": "com.google.facebook.startapp.ads",
-        "islive": "0",
+        "islive": "1",
         "appid": "ca-app-pub-3940256099942544~3347511713",
         "openad": "ca-app-pub-3940256099942544~3347511713",
         "admobid": "ca-app-pub-3940256099942544/6300978111",
